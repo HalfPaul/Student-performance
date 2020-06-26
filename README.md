@@ -94,7 +94,7 @@ Apart from other test results most of the things didn't really matter, but it sh
 | Decision Tree | 6.06 |
 
 As you can see Linear Regression did the best job, but other models weren't that far.
-# Citation
+### Citation
 P. Cortez and A. Silva. Using Data Mining to Predict Secondary School 
 Student Performance. In A. Brito and J. Teixeira Eds., Proceedings of 
 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, 
